@@ -1,4 +1,4 @@
-![AI Platform Lab](docs/banner.png)
+![AI Platform Lab](docs/Banner.png)
 # AI Platform Lab
 ## Project Overview
 

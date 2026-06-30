@@ -1,5 +1,5 @@
+![AI Platform Lab](docs/banner.png)
 # AI Platform Lab
-
 ## Project Overview
 
 AI Platform Lab is a personal engineering project designed to build a production-style cloud platform capable of hosting modern AI applications.
